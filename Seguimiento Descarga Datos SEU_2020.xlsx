@@ -1,0 +1,320 @@
+14 Jun 2020 10:28:05 DRVX0010I <$MAIN$  > $LOG$ THREAD ATTACHED                                                                                                                                        
+14 Jun 2020 10:28:05 DRVX0002I <$MAIN$  > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+14 Jun 2020 10:28:05 DRVX0002I <$MAIN$  > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+14 Jun 2020 10:28:05 DRVX0010I <$MAIN$  > $CDSP$ THREAD ATTACHED                                                                                                                                       
+14 Jun 2020 10:28:05 DRVX0010I <$MAIN$  > $UTL$ THREAD ATTACHED                                                                                                                                        
+14 Jun 2020 10:28:05 DRVX0010I <$MAIN$  > $AUDITX$ THREAD ATTACHED                                                                                                                                     
+14 Jun 2020 10:28:05 DRVX0010I <$MAIN$  > $AUDIT$ THREAD ATTACHED                                                                                                                                      
+14 Jun 2020 10:28:05 DRVX0010I <$MAIN$  > $WINMON$ THREAD ATTACHED                                                                                                                                     
+14 Jun 2020 10:28:05 DRVX0100I <$MAIN$  > DRVX INITIALIZATION SUCCESSFUL VERSION=V1R1.079  - (Nov  6 2019 18:13:36) 64bit                                                                              
+14 Jun 2020 10:28:05 DRVX0101I <$MAIN$  > SERVER ROOT DIRECTORY (C:\Program Files\LRS\VPSX Printer Driver Management\)                                                                                 
+14 Jun 2020 10:28:05 DRVX0102I <$MAIN$  > LRS/ServerX (N/A)                                                                                                                                            
+14 Jun 2020 10:28:05 DRVX0103I <$MAIN$  > LISTENING ON (localhost:5702)                                                                                                                                
+14 Jun 2020 10:28:05 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (INFO) NUMBER (1) TIME (14 Jun 2020 10:28:15) QUEUED                                                                                  
+14 Jun 2020 10:28:05 DRVX0104I <$UTL$   > UPDATES WILL BE SCHEDULED AFTER (248) THEN EVERY (360) MINUTES                                                                                               
+14 Jun 2020 10:28:05 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (2) TIME (14 Jun 2020 14:36:05) QUEUED                                                                                
+14 Jun 2020 10:28:12 DRVX1054I <$MAIN$  > PULL PRINT SERVICE STARTED                                                                                                                                   
+14 Jun 2020 10:28:15 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (1) PROCESS ID (8884)                                                                                                 
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200614_102834x\drvu.log)                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Date (06/14/20) Time (10:28:34)                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Platform id (2)                                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > CSD () version (0.0)                                                                                                                                         
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Product suite (0x00000100) product type (0x01)                                                                                                               
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Default Locale ID:   system (0x00000c0a/es-ES) user (0x00000c0a/es-ES)                                                                                       
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >         Lang ID:     system (0x0c0a/es-ES)     user (0x0c0a/es-ES)                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Default UI Language: system (0x0409/en-US)     user (0x0409/en-US)                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Available UI Languages:                                                                                                                                      
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >                             (0x0409/en-US)                                                                                                                   
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Install language:           (0x0409)                                                                                                                         
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Default language:           (0x0c0a)                                                                                                                         
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Active keyboard locale ID:  (0x0000040A)                                                                                                                     
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > CRT locale:                 (C)                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Code pages:                                                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > ANSI:                       (1252  (ANSI - Latin I))                                                                                                         
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > System default ANSI:        (1252)                                                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > System default OEM:         (850)                                                                                                                            
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > User   default ANSI:        (1252)                                                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > User   default OEM:      :  (850)                                                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Product install directory (C:\Program Files\LRS\VPSX Printer Driver Management\)                                                                             
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > WINDIR (C:\WINDOWS) PROGRAMFILES (C:\Program Files)                                                                                                          
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > ActiveX Cache (C:\Windows\Downloaded Program Files)                                                                                                          
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Virtualized (N)                                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > ActiveX (Cdrvp) is registered                                                                                                                                
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > VPSX PDM Services is installed                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Registry print policy settings (if specified):                                                                                                               
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Security settings:                                                                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Member of Administrators group                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > NOT member of Power Users group                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Primary group:                                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >   Account (NT AUTHORITY\SYSTEM)                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >     SID (S-1-5-18)                                                                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Domain\User:                                                                                                                                                 
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >   Account (NT AUTHORITY\SYSTEM)                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >     SID (S-1-5-18)                                                                                                                                           
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Local security policy settings:                                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >   Prevent add printer drivers policy (Disabled)                                                                                                              
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   >   Unsigned driver signature policy (Warn)                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Expiring directory (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp) using retention (720) hours                                                
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Expiring (20200514_221010x)                                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Directory (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200514_221010x) cleared                                                            
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Expiring (20200515_041010x)                                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Directory (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200515_041010x) cleared                                                            
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Expiring (20200515_101011x)                                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Directory (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200515_101011x) cleared                                                            
+14 Jun 2020 10:28:34 DRVX0010I <$CDSP$  > CREQ0001 THREAD ATTACHED                                                                                                                                     
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Executable FQN(C:\Program Files\LRS\VPSX Printer Driver Management\ndrvu.exe)                                                                                
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Command line argument (1) (INFO)                                                                                                                             
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Command line argument (2) (-b)                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Command line argument (3) (-q)                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Status information will be shown                                                                                                                             
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Printer...server connector string is (on)                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Expiring cache (C:\Program Files\LRS\VPSX Printer Driver Management\drvucab) using maximum size (50) MB                                                      
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Cache size before purge (16220063) (15.5 MB) max (52428800)                                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Cache size after purge (16220063) (15.5 MB) max (52428800)                                                                                                   
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > ****************** S P O O L E R ********************************                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Windows spooler is running                                                                                                                                   
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > ****************** S T A T U S **********************************                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > VPSX PDM Utility (ndrvu.exe) is installed in directory (C:\Program Files\LRS\VPSX Printer Driver Management)                                                 
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Requesting service status function on port (5702)                                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Service started at (14 Jun 2020 10:28:03)                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Current service log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvxlog\20200614_102805.log)                                                  
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Startup parameter UPDATE = YES                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Next update request will execute at (14 Jun 2020 14:36:05)                                                                                                   
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Number of requests since service was started (2)                                                                                                             
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Number of requests waiting to be started (1)                                                                                                                 
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Number of requests failed (0)                                                                                                                                
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > A request is currently processing                                                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Request arguments (INFO -b -q)                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Service client thread locale (0x00000c0a)                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Contents of VPSX PDM startup parameter file                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >   C:\Program Files\LRS\VPSX Printer Driver Management\\drvstart.ini                                                                                          
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > PULLSERVICE = YES                                                                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > VPSXDMN1 = *.GE.com                                                                                                                                          
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > VPSXDMN2 = *.cloud.GE.com                                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > AUDIT = Y                                                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >   AUDITHOST = 16932535-A2C2-4.MGMT.CLOUD.DS.GE.COM                                                                                                           
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > ****************** MANAGED PRINTERS *****************************                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > There are (1) managed printers                                                                                                                               
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Name (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Validating URL (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                        
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > VPSX server (http://vpsx.cloud.ge.com:631/GEPRINT) is in IE zone (Internet)                                                                                  
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > VPSX domain (cloud.ge.com) this domain (logon.ds.ge.com)                                                                                                     
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Validating with VPSX domain (*.GE.com)                                                                                                                       
+14 Jun 2020 10:28:34 DRVX2000D <$UTL$   > Validating with VPSX domain (*.cloud.GE.com)                                                                                                                 
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >              BaseName = \\http://vpsx\GEPRINT                                                                                                                
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >           DriverIndex = 0puff4b00jk                                                                                                                          
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >           PrinterType = 1                                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >              PortName = http://127.0.0.1:7631/GEPRINT                                                                                                        
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >                 Flags = 4                                                                                                                                    
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   >              VPSXDate =  4 (13 Jun 2020 17:35:20)                                                                                                            
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > ****************** DEFAULT PRINTER (EPSON85E5BE (XP-352 355 Series))                                                                                         
+14 Jun 2020 10:28:34 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/14/20) time (10:28:34)                                                                                                      
+14 Jun 2020 10:28:34 DRVX2002I <$UTL$   > CPU seconds: kernel (0.203) user (0.078)                                                                                                                     
+14 Jun 2020 10:28:34 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (1) EXIT CODE (0)                                                                                                                     
+14 Jun 2020 14:36:05 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (3) TIME (14 Jun 2020 20:36:05) QUEUED                                                                                
+14 Jun 2020 14:36:06 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (2) PROCESS ID (1900)                                                                                                 
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200614_143606x\drvu.log)                                                            
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Date (06/14/20) Time (14:36:06)                                                                                                                              
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   >                                                                                                                                                              
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > IPP connect request failed errno (15013): INVALID OR UNKNOWN HOST NAME                                                                                       
+14 Jun 2020 14:36:06 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/14/20) time (14:36:06)                                                                                                      
+14 Jun 2020 14:36:06 DRVX2002I <$UTL$   > CPU seconds: kernel (0.140) user (0.031)                                                                                                                     
+14 Jun 2020 14:36:06 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (2) EXIT CODE (0)                                                                                                                     
+14 Jun 2020 20:36:05 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (4) TIME (15 Jun 2020 02:36:05) QUEUED                                                                                
+14 Jun 2020 20:36:05 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (3) PROCESS ID (5732)                                                                                                 
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200614_203605x\drvu.log)                                                            
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Date (06/14/20) Time (20:36:05)                                                                                                                              
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   >                                                                                                                                                              
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > IPP connect request failed errno (15013): INVALID OR UNKNOWN HOST NAME                                                                                       
+14 Jun 2020 20:36:05 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/14/20) time (20:36:05)                                                                                                      
+14 Jun 2020 20:36:05 DRVX2002I <$UTL$   > CPU seconds: kernel (0.156) user (0.015)                                                                                                                     
+14 Jun 2020 20:36:05 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (3) EXIT CODE (0)                                                                                                                     
+15 Jun 2020 02:36:05 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (5) TIME (15 Jun 2020 08:36:05) QUEUED                                                                                
+15 Jun 2020 02:36:05 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (4) PROCESS ID (1844)                                                                                                 
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200615_023605x\drvu.log)                                                            
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Date (06/15/20) Time (02:36:05)                                                                                                                              
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   >                                                                                                                                                              
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > IPP connect request failed errno (15013): INVALID OR UNKNOWN HOST NAME                                                                                       
+15 Jun 2020 02:36:06 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/15/20) time (02:36:06)                                                                                                      
+15 Jun 2020 02:36:06 DRVX2002I <$UTL$   > CPU seconds: kernel (0.125) user (0.046)                                                                                                                     
+15 Jun 2020 02:36:06 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (4) EXIT CODE (0)                                                                                                                     
+15 Jun 2020 08:36:05 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (6) TIME (15 Jun 2020 14:36:05) QUEUED                                                                                
+15 Jun 2020 08:36:05 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (5) PROCESS ID (4404)                                                                                                 
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200615_083605x\drvu.log)                                                            
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Date (06/15/20) Time (08:36:05)                                                                                                                              
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   >                                                                                                                                                              
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > IPP connect request failed errno (15013): INVALID OR UNKNOWN HOST NAME                                                                                       
+15 Jun 2020 08:36:05 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/15/20) time (08:36:05)                                                                                                      
+15 Jun 2020 08:36:05 DRVX2002I <$UTL$   > CPU seconds: kernel (0.187) user (0.000)                                                                                                                     
+15 Jun 2020 08:36:05 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (5) EXIT CODE (0)                                                                                                                     
+15 Jun 2020 12:16:08 DRVX1000I <$LOG$   > LOG FILE 20200514_073308.log HAS EXPIRED                                                                                                                     
+15 Jun 2020 14:36:08 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (7) TIME (15 Jun 2020 20:36:08) QUEUED                                                                                
+15 Jun 2020 14:36:08 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (6) PROCESS ID (17896)                                                                                                
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200615_143608x\drvu.log)                                                            
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Date (06/15/20) Time (14:36:08)                                                                                                                              
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   >                                                                                                                                                              
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Successfully contacted VPSX server for printer URL (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                    
+15 Jun 2020 14:36:09 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/15/20) time (14:36:09)                                                                                                      
+15 Jun 2020 14:36:09 DRVX2002I <$UTL$   > CPU seconds: kernel (0.203) user (0.031)                                                                                                                     
+15 Jun 2020 14:36:09 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (6) EXIT CODE (0)                                                                                                                     
+15 Jun 2020 20:36:08 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (8) TIME (16 Jun 2020 02:36:08) QUEUED                                                                                
+15 Jun 2020 20:36:09 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (7) PROCESS ID (16484)                                                                                                
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200615_203609x\drvu.log)                                                            
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Date (06/15/20) Time (20:36:09)                                                                                                                              
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   >                                                                                                                                                              
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Successfully contacted VPSX server for printer URL (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                    
+15 Jun 2020 20:36:09 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/15/20) time (20:36:09)                                                                                                      
+15 Jun 2020 20:36:09 DRVX2002I <$UTL$   > CPU seconds: kernel (0.218) user (0.046)                                                                                                                     
+15 Jun 2020 20:36:09 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (7) EXIT CODE (0)                                                                                                                     
+16 Jun 2020 02:36:08 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (9) TIME (16 Jun 2020 08:36:08) QUEUED                                                                                
+16 Jun 2020 02:36:09 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (8) PROCESS ID (1264)                                                                                                 
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200616_023609x\drvu.log)                                                            
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Date (06/16/20) Time (02:36:09)                                                                                                                              
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Locale ID:           thread (0x00000c0a/es-ES)                                                                                                               
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > UI language:                (0x00000409/en-US)                                                                                                               
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > User (SYSTEM) hostname (G5CG7273JK9E.logon.ds.ge.com)                                                                                                        
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Command line argument (0) (C:\Program Files\LRS\VPSX Printer Driver Management\\ndrvu.exe)                                                                   
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Command line argument (1) (UPDATE)                                                                                                                           
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Command line argument (2) (-q)                                                                                                                               
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Managed Printer Version (2)                                                                                                                                  
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Starting managed printer update                                                                                                                              
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   >                                                                                                                                                              
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > VPSX server on host (vpsx.cloud.ge.com) is in valid domain (*.GE.com)                                                                                        
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Connecting to (http://vpsx.cloud.ge.com:631/GEPRINT)                                                                                                         
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > IPP connect request failed errno (15013): INVALID OR UNKNOWN HOST NAME                                                                                       
+16 Jun 2020 02:36:09 DRVX1002I <$UTL$   > DRIVER UTILITY ENDED: EXIT CODE (0)                                                                                                                          
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > Exiting utility: rc (0) date (06/16/20) time (02:36:09)                                                                                                      
+16 Jun 2020 02:36:09 DRVX2002I <$UTL$   > CPU seconds: kernel (0.203) user (0.046)                                                                                                                     
+16 Jun 2020 02:36:09 DRVX1003I <$UTL$   > DRIVER UTILITY REQUEST (8) EXIT CODE (0)                                                                                                                     
+16 Jun 2020 08:36:08 DRVX1004I <$UTL$   > DRIVER UTILITY REQUEST (UPDATE) NUMBER (10) TIME (16 Jun 2020 14:36:08) QUEUED                                                                               
+16 Jun 2020 08:36:08 DRVX1001I <$UTL$   > DRIVER UTILITY STARTED: REQUEST NUMBER (9) PROCESS ID (15600)                                                                                                
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =                                                              
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > Driver Utility Version V1R1.0.079  - (Nov  6 2019 18:13:42) 64bit                                                                                            
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > LRXAPI Library V1R1.0.094  - (Oct 11 2019 17:18:00)                                                                                                          
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > WEBSVC Library V1R1.0.030  - (Jan 17 2019 18:49:58)                                                                                                          
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > Log file (C:\Program Files\LRS\VPSX Printer Driver Management\\drvutmp\20200616_083608x\drvu.log)                                                            
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > Date (06/16/20) Time (08:36:08)                                                                                                                              
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > OS Version (6.2) build (9200) winos (6)                                                                                                                      
+16 Jun 2020 08:36:08 DRVX2002I <$UTL$   > Processor architecture (9) platform (amd64) CPUs (4)                                                                                                         
+16 Jun 2020 08:36:08 DRVX
